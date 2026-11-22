@@ -1,4 +1,3 @@
-
 console.log("Bienvenue dans le projet DevOps !");
 
 const titre = document.querySelector("h1");
