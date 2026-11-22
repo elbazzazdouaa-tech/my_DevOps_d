@@ -4,7 +4,7 @@ const titre = document.querySelector("h1");
 
 titre.textContent = "DOUAAAA - Projet CI GitHub Actions";
 
-const paragraphe
+const paragraphe = document.querySelector("p");
 
 paragraphe.textContent = "Notre code JavaScript est vérifié automatiquement par GitHub Actions !";
 
